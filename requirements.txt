@@ -1,0 +1,4 @@
+numpy==1.9.1
+pysparse==1.2-dev213
+RDFAlchemy==0.2.9
+simplejson==3.6.5
